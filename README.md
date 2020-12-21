@@ -2,6 +2,8 @@
 
 2020 has been a year for learning. After exploring various resources and along the journey, here I am showcasing a project.
 
+Dataset - http://theachalshah.com/wp-content/uploads/2020/12/50Startups-1.csv
+
 Model – Art, like morality, consists in drawing the line somewhere. – G. K. Chesterton.
 So, does Linear Regression.
 
