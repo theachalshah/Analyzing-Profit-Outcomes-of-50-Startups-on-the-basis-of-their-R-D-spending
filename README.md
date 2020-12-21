@@ -1,0 +1,1 @@
+# Analyzing-Profit-Outcomes-of-50-Startups-on-the-basis-of-their-R-D-spending
